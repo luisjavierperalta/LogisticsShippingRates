@@ -1,2 +1,2 @@
 # LogisticsShippingRates
-IBM Certified Course with Git &amp; Github.com/ Practice Project: Part 1 - GitHub UI Workflow
+IBM Certified Git &amp; Github.com Course/ Practice Project: Part 1 - GitHub UI Workflow
